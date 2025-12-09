@@ -4,4 +4,3 @@ Folders included:
 - Spreadsheets/: Ticket_Analysis.xlsx (sample sheets + formulas explanation)
 - Python/: 01_Time_Converter.py, 02_Remove_Duplicates.py
 
-This ZIP follows the requested submission format in the assignment.
